@@ -1,11 +1,11 @@
 # Ecommerce Delivery Performance Analysis 🚚📦
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Last Commit](https://img.shields.io/github/last-commit/USERNAME/REPO_NAME)
-![Repo Size](https://img.shields.io/github/repo-size/USERNAME/REPO_NAME)
+![Last Commit](https://img.shields.io/github/last-commit/DanishShaikh18/Ecommerce-Delivery-Performance-Analysis)
+![Repo Size](https://img.shields.io/github/repo-size/DanishShaikh18/Ecommerce-Delivery-Performance-Analysis)
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
-![Issues](https://img.shields.io/github/issues/USERNAME/REPO_NAME)
-![Pull Requests](https://img.shields.io/github/issues-pr/USERNAME/REPO_NAME)
+![Issues](https://img.shields.io/github/issues/DanishShaikh18/Ecommerce-Delivery-Performance-Analysis)
+![Pull Requests](https://img.shields.io/github/issues-pr/DanishShaikh18/Ecommerce-Delivery-Performance-Analysis)
 
 ## 📌 Overview
 This project analyzes the delivery performance of major e-commerce and quick-commerce platforms such as **JioMart**, **Blinkit**, and **Swiggy Instamart**.  
@@ -35,4 +35,5 @@ The focus is on **delivery speed, delays, and customer satisfaction** to identif
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
