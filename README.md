@@ -1,6 +1,6 @@
 # Ecommerce Delivery Performance Analysis 🚚📦
 
-[![License](https://img.shields.io/github/license/USERNAME/REPO_NAME)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Last Commit](https://img.shields.io/github/last-commit/USERNAME/REPO_NAME)
 ![Repo Size](https://img.shields.io/github/repo-size/USERNAME/REPO_NAME)
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
@@ -35,3 +35,4 @@ The focus is on **delivery speed, delays, and customer satisfaction** to identif
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
