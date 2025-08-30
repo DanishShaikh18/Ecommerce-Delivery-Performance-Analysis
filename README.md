@@ -1,4 +1,4 @@
-# Ecommerce Delivery Performance Analysis 🚚📦
+# Quick-Commerce Delivery Analytics — Blinkit, Swiggy Instamart, JioMart (EDA → Decisions) 🏍️
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Last Commit](https://img.shields.io/github/last-commit/DanishShaikh18/Ecommerce-Delivery-Performance-Analysis)
@@ -35,5 +35,6 @@ The focus is on **delivery speed, delays, and customer satisfaction** to identif
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
