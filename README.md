@@ -71,7 +71,7 @@ This project simulates the **real-world role of a Data Analyst at Google/Amazon*
 - Delivery time distribution (fastest, slowest, avg).  
 - Refund % per platform.  
 - Top product categories.
- ![Example](https://github.com/user-attachments/assets/79565c8f-0506-4821-8383-c3935f4b8069)
+<img src="https://github.com/user-attachments/assets/79565c8f-0506-4821-8383-c3935f4b8069" width="600"/>
 
 ### 🔹 2. Diagnostic (Why did it happen?)  
 - Delays linked to **peak hours & categories**.  
@@ -149,6 +149,7 @@ I love turning raw data into stories that drive impact.
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
