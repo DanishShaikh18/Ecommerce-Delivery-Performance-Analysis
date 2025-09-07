@@ -5,9 +5,7 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
 ![EDA](https://img.shields.io/badge/EDA-Storytelling-orange)
 ![Forecasting](https://img.shields.io/badge/Forecasting-ARIMA/Prophet-green)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Last Commit](https://img.shields.io/github/last-commit/DanishShaikh18/Ecommerce-Delivery-Performance-Analysis)
-![Repo Size](https://img.shields.io/github/repo-size/DanishShaikh18/Ecommerce-Delivery-Performance-Analysis)
+
 
 ## 📌 Project Overview  
 Quick-commerce platforms are in a race to deliver groceries **faster, cheaper, and with higher customer satisfaction**.  
@@ -16,7 +14,7 @@ In this project, I analyzed **100,000+ orders** across **Blinkit, Swiggy Instama
 ✅ Which platform is fastest & most reliable?  
 ✅ What drives **refunds, delays, and low ratings**?  
 ✅ How to predict **future demand, delays & customer churn**?  
-✅ **Actionable strategies** that can boost revenue by **37%**.  
+✅ **Actionable strategies** that can boost revenue by upto **37%**.  
 
 This project simulates the **real-world role of a Data Analyst at Google/Amazon**, covering **ELT pipeline, database design, statistical analysis, forecasting, and executive dashboards**.  
 
@@ -124,9 +122,24 @@ This project simulates the **real-world role of a Data Analyst at Google/Amazon*
    git clone https://github.com/your-username/QuickCommerce-Analytics.git
    cd QuickCommerce-Analytics
 
+## Why This Project Stands Out
+
+✅ End-to-End pipeline: From raw data → SQL → EDA → Forecasting → Dashboard.
+✅ Industry-standard schema & KPIs (SLA, P50/P90 delivery times, breach rates).
+✅ Business-first: Recommendations linked to real growth opportunities (+37% revenue).
+
+
+##✨ About Me
+👋 Hi, I’m Danish Shaikh a passionate Data Analyst
+I love turning raw data into stories that drive impact.
+
+🔗 Let’s connect: LinkedIn
+ https://www.linkedin.com/in/danish-shaikh-b6442a212/
+
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
