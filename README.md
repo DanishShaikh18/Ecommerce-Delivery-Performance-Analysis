@@ -32,9 +32,102 @@ This project simulates the **real-world role of a Data Analyst at Google/Amazon*
 ---
 
 ## 📂 Project Structure
+📦 QuickCommerce-Analytics
+┣ 📂 notebooks
+┃ ┣ 📓 Extract.ipynb
+┃ ┣ 📓 Load.ipynb
+┃ ┣ 📓 Analysis.ipynb
+┣ 📂 data (sample dataset)
+┣ 📂 dashboards (PowerBI)
+┣ 📂 sql (schema + queries)
+
+
+
+---
+
+## 🔹 Data Engineering  
+- Followed **ELT pipeline**: Extract → Load → Transform.  
+- Designed **Star Schema** with:  
+  - **FactOrders** (OrderID, CustomerID, PlatformID, ProductID, Metrics)  
+  - **DimCustomer**, **DimProduct**, **DimPlatform**  
+- Applied **keys, constraints & normalization** to replicate real-world industry standards.  
+- Feature Engineering: SLA delay, weekday, peak-hour bins, customer segmentation, etc.  
+
+---
+
+## 📊 Analysis  
+
+### 🔹 1. Descriptive (What happened?)  
+- Orders per platform (Blinkit vs Swiggy vs JioMart).  
+- Daily/hourly demand patterns.  
+- Avg Order Value (AOV).  
+- Delivery time distribution (fastest, slowest, avg).  
+- Refund % per platform.  
+- Top product categories.  
+
+### 🔹 2. Diagnostic (Why did it happen?)  
+- Delays linked to **peak hours & categories**.  
+- Refunds tied to **delays + categories**.  
+- Ratings dropped with **every 10 min delay (-1.1 score)**.  
+- JioMart slower despite higher SLA → ops inefficiency.  
+
+### 🔹 3. Predictive (What’s likely?)  
+- **Demand forecasting** for next week (Prophet/ARIMA).  
+- **Customer churn prediction** based on bad ratings + refunds.  
+- **Delay prediction** based on order time, platform, category.  
+
+### 🔹 4. Prescriptive (What should they do?)  
+- Optimize resources in **peak hours**.  
+- Discounts for categories with **high churn/refunds**.  
+- SLA breach reduction → directly improves ratings & loyalty.  
+
+---
+
+## 📈 Metrics & Modeling  
+- **Avg Delivery Time** → Swiggy: 11min | Blinkit: 13min | JioMart: 17min  
+- **SLA Breach Rate (15 min cutoff)** → JioMart highest at **52%**  
+- **On-Time vs Delayed %** → Strong link with churn & ratings  
+- **Regression Model** → Delivery time strongly predicts ratings  
+- **Forecasting Models** → Predicted demand & delay patterns  
+
+---
+
+## 💡 Key Insights & Business Impact  
+✔ Swiggy = **Fastest & most reliable**  
+✔ Blinkit = Balanced, moderate delays  
+✔ JioMart = **Slowest, highest SLA breaches (52%)**  
+✔ **Delays cause ratings to drop** (10min = -1.1 score)  
+✔ Optimizations can unlock **+37% revenue growth**  
+
+> 🎯 This analysis doesn’t just explain the past — it tells platforms **where to act to win the quick-commerce battle**.  
+
+---
+
+## 📊 Dashboards  
+
+### 📌 Executive Summary (Power BI)  
+- Orders, Revenue, Avg Delivery Time, SLA Breach %  
+
+### 📌 Deep Dive  
+- Category trends, Delay heatmaps, Customer segmentation  
+
+### 📌 Ops Dashboard  
+- SLA monitoring, Refunds, Hourly performance  
+
+*(Screenshots/GIFs of dashboards go here)*  
+
+---
+
+## 🚀 How to Run This Project  
+1. Clone this repo:  
+   ```bash
+   git clone https://github.com/your-username/QuickCommerce-Analytics.git
+   cd QuickCommerce-Analytics
+
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
