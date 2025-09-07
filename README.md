@@ -6,7 +6,7 @@
 ![EDA](https://img.shields.io/badge/EDA-Storytelling-orange)
 ![Forecasting](https://img.shields.io/badge/Forecasting-ARIMA/Prophet-green)
 
-![Dashboard Preview](https://github.com/user-attachments/assets/297a6f83-9b19-4277-9b07-bc0dfe77ea3a)
+<img src="https://github.com/user-attachments/assets/297a6f83-9b19-4277-9b07-bc0dfe77ea3a" width="650"/>
 ## 📌 Project Overview  
 Quick-commerce platforms are in a race to deliver groceries **faster, cheaper, and with higher customer satisfaction**.  
 In this project, I analyzed **100,000+ orders** across **Blinkit, Swiggy Instamart, and JioMart** to uncover:  
@@ -78,7 +78,7 @@ This project simulates the **real-world role of a Data Analyst at Google/Amazon*
 - Refunds tied to **delays + categories**.  
 - Ratings dropped with **every 10 min delay (-1.1 score)**.  
 - JioMart slower despite higher SLA → ops inefficiency.
-<img src="https://github.com/user-attachments/assets/51153ed9-f3ad-49ea-b9c6-71a63058fc95" width="550"/>
+<img src="https://github.com/user-attachments/assets/e71b9cd2-d74d-4e64-97b5-d20b86c7dea0" width="550"/>
 
 ### 🔹 3. Predictive (What’s likely?)  
 - **Demand forecasting** for next week (Prophet/ARIMA).  
@@ -150,6 +150,7 @@ I love turning raw data into stories that drive impact.
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
