@@ -85,7 +85,8 @@ This project simulates the **real-world role of a Data Analyst at Google/Amazon*
 ### 🔹 3. Predictive (What’s likely?)  
 - **Demand forecasting** for next week (Prophet/ARIMA).  
 - **Customer churn prediction** based on bad ratings + refunds.  
-- **Delay prediction** based on order time, platform, category.  
+- **Delay prediction** based on order time, platform, category.
+<img src="https://github.com/user-attachments/assets/846029d3-5997-4537-983b-27f4a66697ff" width="600"/>
 
 ### 🔹 4. Prescriptive (What should they do?)  
 - Optimize resources in **peak hours**.  
@@ -152,6 +153,7 @@ I love turning raw data into stories that drive impact.
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
