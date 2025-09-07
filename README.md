@@ -29,17 +29,24 @@ This project simulates the **real-world role of a Data Analyst at Google/Amazon*
 
 ---
 
-## 📂 Project Structure
-📦 QuickCommerce-Analytics
-┣ 📂 notebooks
-┃ ┣ 📓 Extract.ipynb
-┃ ┣ 📓 Load.ipynb
-┃ ┣ 📓 Analysis.ipynb
-┣ 📂 data (sample dataset)
-┣ 📂 dashboards (PowerBI)
-┣ 📂 sql (schema + queries)
-
-
+📦 quick-commerce-analysis
+ ┣ 📂 dataset
+ ┃ ┣
+ ┃ ┗ processed_orders.csv
+ ┣ 📂 notebooks
+ ┃ ┣ 01_EDA.ipynb
+ ┃ ┣ 02_Diagnostic_Analysis.ipynb
+ ┃ ┣ 03_Predictive_Modeling.ipynb
+ ┃ ┗ 04_Prescriptive_Solutions.ipynb
+ ┣ 📂 reports
+ ┃ ┣ EDA_Report.pdf
+ ┃ ┗ Insights_Presentation.pptx
+ ┣ 📂 dashboards
+ ┃ ┗ powerbi_dashboard.pbix
+ ┣ 📂 src
+ ┃ ┗ utils.py
+ ┣ README.md
+ ┗ requirements.txt
 
 ---
 
@@ -139,6 +146,7 @@ I love turning raw data into stories that drive impact.
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
