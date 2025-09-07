@@ -91,7 +91,8 @@ This project simulates the **real-world role of a Data Analyst at Google/Amazon*
 ### 🔹 4. Prescriptive (What should they do?)  
 - Optimize resources in **peak hours**.  
 - Discounts for categories with **high churn/refunds**.  
-- SLA breach reduction → directly improves ratings & loyalty.  
+- SLA breach reduction → directly improves ratings & loyalty.
+<img src="https://github.com/user-attachments/assets/44f5f6d3-ad10-4266-986d-292a74fb7c9b" width="600"/>
 
 ---
 
@@ -110,8 +111,13 @@ This project simulates the **real-world role of a Data Analyst at Google/Amazon*
 ✔ JioMart = **Slowest, highest SLA breaches (52%)**  
 ✔ **Delays cause ratings to drop** (10min = -1.1 score)  
 ✔ Optimizations can unlock **+37% revenue growth**  
+<img width="650" alt="Image" src="https://github.com/user-attachments/assets/dfc90095-80ff-49b7-b102-055820291a60" />
 
-> 🎯 This analysis doesn’t just explain the past — it tells platforms **where to act to win the quick-commerce battle**.  
+<img width="650" alt="Image" src="https://github.com/user-attachments/assets/98eb5c95-d569-47d2-a82a-730b528b3fae" />
+
+<img width="650" alt="Image" src="https://github.com/user-attachments/assets/59710765-b0ad-4d45-a181-7aff32ec12e3" />
+
+> 🎯 This analysis doesn’t just explain the past it tells platforms **where to act to win the quick-commerce battle**.  
 
 ---
 
@@ -153,6 +159,7 @@ I love turning raw data into stories that drive impact.
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
