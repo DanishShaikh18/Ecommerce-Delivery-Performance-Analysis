@@ -68,16 +68,17 @@ This project simulates the **real-world role of a Data Analyst at Google/Amazon*
 - Orders per platform (Blinkit vs Swiggy vs JioMart).  
 - Daily/hourly demand patterns.  
 - Avg Order Value (AOV).  
-- Delivery time distribution (fastest, slowest, avg).  
-- Refund % per platform.  
+- Delivery time distribution.  
 - Top product categories.
-<img src="https://github.com/user-attachments/assets/79565c8f-0506-4821-8383-c3935f4b8069" width="600"/>
+- Service Ratings Distribution 
+<img src="https://github.com/user-attachments/assets/79565c8f-0506-4821-8383-c3935f4b8069" width="550"/>
 
 ### 🔹 2. Diagnostic (Why did it happen?)  
 - Delays linked to **peak hours & categories**.  
 - Refunds tied to **delays + categories**.  
 - Ratings dropped with **every 10 min delay (-1.1 score)**.  
-- JioMart slower despite higher SLA → ops inefficiency.  
+- JioMart slower despite higher SLA → ops inefficiency.
+<img src="https://github.com/user-attachments/assets/51153ed9-f3ad-49ea-b9c6-71a63058fc95" width="550"/>
 
 ### 🔹 3. Predictive (What’s likely?)  
 - **Demand forecasting** for next week (Prophet/ARIMA).  
@@ -149,6 +150,7 @@ I love turning raw data into stories that drive impact.
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
