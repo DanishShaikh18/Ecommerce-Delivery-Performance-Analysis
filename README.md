@@ -6,7 +6,7 @@
 ![EDA](https://img.shields.io/badge/EDA-Storytelling-orange)
 ![Forecasting](https://img.shields.io/badge/Forecasting-ARIMA/Prophet-green)
 
-
+![Dashboard Preview](https://github.com/user-attachments/assets/297a6f83-9b19-4277-9b07-bc0dfe77ea3a)
 ## 📌 Project Overview  
 Quick-commerce platforms are in a race to deliver groceries **faster, cheaper, and with higher customer satisfaction**.  
 In this project, I analyzed **100,000+ orders** across **Blinkit, Swiggy Instamart, and JioMart** to uncover:  
@@ -148,6 +148,7 @@ I love turning raw data into stories that drive impact.
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
