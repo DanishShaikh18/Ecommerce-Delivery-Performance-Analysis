@@ -7,34 +7,40 @@
 ![Issues](https://img.shields.io/github/issues/DanishShaikh18/Ecommerce-Delivery-Performance-Analysis)
 ![Pull Requests](https://img.shields.io/github/issues-pr/DanishShaikh18/Ecommerce-Delivery-Performance-Analysis)
 
-## 📌 Overview
-This project analyzes the delivery performance of major e-commerce and quick-commerce platforms such as **JioMart**, **Blinkit**, and **Swiggy Instamart**.  
-The focus is on **delivery speed, delays, and customer satisfaction** to identify which company delivers the fastest and provides the best customer experience.
 
-## 🎯 Objectives
-- Compare **average delivery times** across platforms
-- Identify trends in **delivery delays**
-- Measure **customer satisfaction** using ratings and feedback
-- Determine which platform is **most consistent** in service
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-informational?logo=postgresql)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
+![EDA](https://img.shields.io/badge/EDA-Storytelling-orange)
+![Forecasting](https://img.shields.io/badge/Forecasting-ARIMA/Prophet-green)
 
-## 📂 Dataset
-- **Source:** Internal dataset from delivery logs
-- **Format:** CSV / Excel
-- **Key Columns:** Order ID, Customer ID, Platform, Delivery Time, Delay, Order Value, Customer Feedback
+## 📌 Project Overview  
+Quick-commerce platforms are in a race to deliver groceries **faster, cheaper, and with higher customer satisfaction**.  
+In this project, I analyzed **100,000+ orders** across **Blinkit, Swiggy Instamart, and JioMart** to uncover:  
 
-## 🛠️ Tech Stack
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **PostgreSQL** for Database
-- **Jupyter Notebook** for data exploration
-- **Excel** for initial data review
+✅ Which platform is fastest & most reliable?  
+✅ What drives **refunds, delays, and low ratings**?  
+✅ How to predict **future demand, delays & customer churn**?  
+✅ **Actionable strategies** that can boost revenue by **37%**.  
 
-## 📊 Example Insights
-- Platform with lowest average delivery time
-- Correlation between **order value** and **customer satisfaction**
-- Impact of **delivery delays** on ratings
+This project simulates the **real-world role of a Data Analyst at Google/Amazon**, covering **ELT pipeline, database design, statistical analysis, forecasting, and executive dashboards**.  
+
+---
+
+## 🛠️ Tech Stack & Skills  
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Prophet/ARIMA  
+- **SQL (PostgreSQL)**: Star Schema (Fact & Dimension tables), Keys & Constraints  
+- **Power BI**: Executive dashboards (3 pages: Summary, Deep Dive, Ops)  
+- **Analytics**: Descriptive, Diagnostic, Predictive, Prescriptive  
+- **Professional Practices**: ELT pipeline, Feature Engineering, Structured Repo  
+
+---
+
+## 📂 Project Structure
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
