@@ -1,18 +1,13 @@
 # Quick-Commerce Delivery Analytics — Blinkit, Swiggy Instamart, JioMart (EDA → Decisions) 🏍️
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Last Commit](https://img.shields.io/github/last-commit/DanishShaikh18/Ecommerce-Delivery-Performance-Analysis)
-![Repo Size](https://img.shields.io/github/repo-size/DanishShaikh18/Ecommerce-Delivery-Performance-Analysis)
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
-![Issues](https://img.shields.io/github/issues/DanishShaikh18/Ecommerce-Delivery-Performance-Analysis)
-![Pull Requests](https://img.shields.io/github/issues-pr/DanishShaikh18/Ecommerce-Delivery-Performance-Analysis)
-
-
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-informational?logo=postgresql)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
 ![EDA](https://img.shields.io/badge/EDA-Storytelling-orange)
 ![Forecasting](https://img.shields.io/badge/Forecasting-ARIMA/Prophet-green)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Last Commit](https://img.shields.io/github/last-commit/DanishShaikh18/Ecommerce-Delivery-Performance-Analysis)
+![Repo Size](https://img.shields.io/github/repo-size/DanishShaikh18/Ecommerce-Delivery-Performance-Analysis)
 
 ## 📌 Project Overview  
 Quick-commerce platforms are in a race to deliver groceries **faster, cheaper, and with higher customer satisfaction**.  
@@ -40,6 +35,7 @@ This project simulates the **real-world role of a Data Analyst at Google/Amazon*
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
