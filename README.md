@@ -6,7 +6,7 @@
 
 
 <img src="https://github.com/user-attachments/assets/297a6f83-9b19-4277-9b07-bc0dfe77ea3a" width="700"/>
----
+
 
 ## 📌Overview  
 Quick-commerce is a billion-dollar battle where speed, service quality, and customer trust decide market winners.
@@ -131,6 +131,7 @@ This project simulates a real-world analytics system for Blinkit, Swiggy Instama
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
