@@ -13,7 +13,7 @@
 - ⚡**JioMart**: Highest basket value but **45% customer satisfaction**, losing 70%+ to churn.
 <br>
 
-Quick-commerce is a billion-dollar battle where speed, service quality, and customer trust decide market winners.
+Quick-commerce is a billion-dollar battle where speed, service quality, and customer trust decide market winners.<br>
 This project delivers an **end-to-end intelligence system** for 100,000+ orders across 3 platforms → covering **descriptive, diagnostic, predictive, and prescriptive analytics**.  
 <br>
 
@@ -120,13 +120,15 @@ This project delivers an **end-to-end intelligence system** for 100,000+ orders 
 
 ## 👋 About Me  
 
-Hi, I’m **Danish Shaikh** — passionate about turning data into **business outcomes**.  
+Hi, I’m **Danish Shaikh** passionate about turning data into **business outcomes**.  
 🔗 [LinkedIn](https://www.linkedin.com/in/danish-shaikh-b6442a212/) | [Kaggle](https://www.kaggle.com/danishshaikh18) | [GitHub](https://github.com/DanishShaikh18)  
 <br>
----
+<br>
+
 
 ## 📜 License  
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file.  
+
 
 
 
