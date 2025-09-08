@@ -10,13 +10,15 @@
 ## 🚀 Executive Snapshot  
 - ⚡ **Swiggy Instamart**: Fastest deliveries (11 min avg) → **85% satisfied customers**.  
 - ⚡ **Blinkit**: Market share leader (40% orders, ₹1.74 Cr revenue) but faces **evening SLA breaches**.  
-- ⚡ **JioMart**: Highest basket value but **45% customer satisfaction**, losing 70%+ to churn.  
+- ⚡ **JioMart**: Highest basket value but **45% customer satisfaction**, losing 70%+ to churn.
+<br>  
 Quick-commerce is a billion-dollar battle where speed, service quality, and customer trust decide market winners.
 This project delivers an **end-to-end intelligence system** for 100,000+ orders across 3 platforms → covering **descriptive, diagnostic, predictive, and prescriptive analytics**.  
 <br>
 <img src="https://github.com/user-attachments/assets/297a6f83-9b19-4277-9b07-bc0dfe77ea3a" width="700"/>
 <br>
 <br>
+---
 ## 🛠️ Tech Stack & Skills  
 
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Prophet/ARIMA  
@@ -121,6 +123,7 @@ Hi, I’m **Danish Shaikh** — passionate about turning data into **business ou
 
 ## 📜 License  
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file.  
+
 
 
 
