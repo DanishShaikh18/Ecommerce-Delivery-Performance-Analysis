@@ -91,7 +91,8 @@ This project simulates a real-world analytics system for Blinkit, Swiggy Instama
 
 <img width="650" alt="Image" src="https://github.com/user-attachments/assets/59710765-b0ad-4d45-a181-7aff32ec12e3" />
 
-📑 [View Full EDA Report PPT)](reports\EDA_Quick_Commerce.pptx) 
+--- 
+📑 [View Full EDA Report PPT](reports\EDA_Quick_Commerce.pptx) 
 
 
 > 🎯 This analysis doesn’t just explain the past it tells platforms **where to act to win the quick-commerce battle**.  
@@ -134,6 +135,7 @@ This project simulates a real-world analytics system for Blinkit, Swiggy Instama
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
