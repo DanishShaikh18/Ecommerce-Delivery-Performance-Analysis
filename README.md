@@ -99,7 +99,9 @@ This project delivers an **end-to-end intelligence system** for 100,000+ orders 
 <img width="650" alt="Image" src="https://github.com/user-attachments/assets/59710765-b0ad-4d45-a181-7aff32ec12e3" />
 <br>
 <br>
+
 📑 [View Full EDA Report PPT](reports\EDA_Quick_Commerce.pptx) 
+<br>
 
 ## 📑 Deliverables  
 - ✅ SQL schemas + pipelines.  
@@ -117,6 +119,7 @@ This project delivers an **end-to-end intelligence system** for 100,000+ orders 
 <br>
 
 ## 👋 About Me  
+
 Hi, I’m **Danish Shaikh** — passionate about turning data into **business outcomes**.  
 🔗 [LinkedIn](https://www.linkedin.com/in/danish-shaikh-b6442a212/) | [Kaggle](https://www.kaggle.com/danishshaikh18) | [GitHub](https://github.com/DanishShaikh18)  
 <br>
@@ -124,6 +127,7 @@ Hi, I’m **Danish Shaikh** — passionate about turning data into **business ou
 
 ## 📜 License  
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file.  
+
 
 
 
