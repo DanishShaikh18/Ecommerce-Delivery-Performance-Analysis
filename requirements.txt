@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+numpy
+statsmodels
+cufflinks
+plotly
+prophet
+scikit-learn
