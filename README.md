@@ -1,4 +1,4 @@
-# ⚡ QCommerce Intelligence Suite — Delivery & Customer Analytics  
+# ⚡QCommerce Intelligence Suite — Delivery & Customer Analytics  
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DataWarehouse-informational?logo=postgresql)
@@ -11,9 +11,9 @@
 - ⚡ **Swiggy Instamart**: Fastest deliveries (11 min avg) → **85% satisfied customers**.  
 - ⚡ **Blinkit**: Market share leader (40% orders, ₹1.74 Cr revenue) but faces **evening SLA breaches**.  
 - ⚡ **JioMart**: Highest basket value but **45% customer satisfaction**, losing 70%+ to churn.  
-
+Quick-commerce is a billion-dollar battle where speed, service quality, and customer trust decide market winners.
 This project delivers an **end-to-end intelligence system** for 100,000+ orders across 3 platforms → covering **descriptive, diagnostic, predictive, and prescriptive analytics**.  
-
+<br>
 <img src="https://github.com/user-attachments/assets/297a6f83-9b19-4277-9b07-bc0dfe77ea3a" width="700"/>
 <br>
 <br>
@@ -40,101 +40,87 @@ This project delivers an **end-to-end intelligence system** for 100,000+ orders 
  ┗ 📄 requirements.txt
 
  ```
+<br>
+<br>
 
----
 
-## 📊 Analysis Highlights
+## 📊 4-Stage Analytics Framework  
 
-### 🔹 1. Descriptive (What happened?)  
-- Orders per platform (Blinkit vs Swiggy vs JioMart).  
-- Daily/hourly demand patterns.  
-- Avg Order Value (AOV).  
-- Delivery time distribution.  
-- Top product categories.
-- Service Ratings Distribution
-- Sample Plot — Illustrative Example of Analysis 
+### 🔹 Descriptive (What happened?)  
+- Orders, revenue, SLA performance by platform.  
+- Daily/hourly demand patterns, top categories.
+<br>
 <img src="https://github.com/user-attachments/assets/79565c8f-0506-4821-8383-c3935f4b8069" width="550"/>
+<br>
+<br>
 
-### 🔹 2. Diagnostic (Why did it happen?)  
-- Delays linked to **peak hours & categories**.  
-- Refunds tied to **delays + categories**.  
-- Ratings dropped with **every 10 min delay (-1.1 score)**.  
-- JioMart slower despite higher SLA → ops inefficiency.
-- Sample Plot — Illustrative Example of Analysis 
+### 🔹 Diagnostic (Why did it happen?)  
+- Ratings drop **-1.1 per 10 min delay**.  
+- Blinkit breaches SLA 15% during 18:00–21:00.  
+- JioMart consistently lags with 40–50% delays.
+<br>
 <img src="https://github.com/user-attachments/assets/19f59909-ecda-4f87-b901-d72031e0e51f" width="550"/>
+<br>
+<br>
 
-### 🔹 3. Predictive (What’s likely?)  
-- **Demand forecasting** for next week (Prophet/ARIMA).  
-- **Customer churn prediction** based on bad ratings + refunds.  
-- **Delay prediction** based on order time, platform, category.
-- Sample Plot — Illustrative Example of Analysis 
+### 🔹 Predictive (What’s likely?)  
+- **7-day demand forecast** (Prophet/ARIMA).  
+- **Churn prediction** → refund + low rating combo.  
+- **Delay likelihood model** across platforms.
+<br>
 <img src="https://github.com/user-attachments/assets/846029d3-5997-4537-983b-27f4a66697ff" width="600"/>
+<br>
+<br>
 
-### 🔹 4. Prescriptive (What should they do?)  
-- Optimize resources in **peak hours**.  
-- Discounts for categories with **high churn/refunds**.  
-- SLA breach reduction → directly improves ratings & loyalty.
-- Sample Plot — Illustrative Example of Analysis 
+### 🔹 Prescriptive (What should they do?)  
+- SLA optimization during **evening peaks** → protects ratings.  
+- Discounts for **high-churn categories**.  
+- Retention programs for “price-only” customers.
+<br>
 <img src="https://github.com/user-attachments/assets/44f5f6d3-ad10-4266-986d-292a74fb7c9b" width="600"/>
+<br>
+<br>
 
----
-
-## Key Insights
-- ⚡ Swiggy = fastest (11 min avg) → strongest reliability
-- 🛒 Blinkit = balanced trade-off (moderate delays, stable ratings)
-- 🐢 JioMart = slowest (17 min avg, 52% SLA breaches)
-- ⏱️ Ratings drop -1.1 per 10 min delay
-- 🔑 Prescriptive fixes = **+37%** revenue uplift via SLA optimization + retention
+## 💡 Business Impact
+- 📈 **+37% revenue uplift** possible via SLA + churn fixes.  
+- ⏱️ SLA breach reduction → **loyalty & higher repeat orders**.  
+- 🎯 Targeted retention campaigns could **convert 50% “price-only” buyers → loyalists**, lifting Blinkit revenue by **7.3%**.
+<br>
 <img width="650" alt="Image" src="https://github.com/user-attachments/assets/dfc90095-80ff-49b7-b102-055820291a60" />
 
 <img width="650" alt="Image" src="https://github.com/user-attachments/assets/98eb5c95-d569-47d2-a82a-730b528b3fae" />
 
 <img width="650" alt="Image" src="https://github.com/user-attachments/assets/59710765-b0ad-4d45-a181-7aff32ec12e3" />
+<br>
 
---- 
 📑 [View Full EDA Report PPT](reports\EDA_Quick_Commerce.pptx) 
 
+## 📑 Deliverables  
 
-> 🎯 This analysis doesn’t just explain the past it tells platforms **where to act to win the quick-commerce battle**.  
+- ✅ SQL schemas + pipelines.  
+- ✅ Jupyter EDA + ML notebooks.  
+- ✅ Power BI dashboard.  
+- ✅ Storytelling PPT deck → [EDA_Quick_Commerce.pptx](reports/EDA_Quick_Commerce.pptx).  
+<br>
+<br>
 
+## 🏆 Why This Project Stands Out  
+
+- 🔹 **End-to-End pipeline**: Raw data → SQL → EDA → Forecasting → Dashboard.  
+- 🔹 **Industry KPIs**: SLA, P50/P90 delivery, breach rates.  
+- 🔹 **Business-first**: Insights linked directly to growth opportunities.  
+<br>
+<br>
+
+## 👋 About Me  
+
+Hi, I’m **Danish Shaikh** — passionate about turning data into **business outcomes**.  
+🔗 [LinkedIn](https://www.linkedin.com/in/danish-shaikh-b6442a212/) | [Kaggle](https://www.kaggle.com/danishshaikh18) | [GitHub](https://github.com/DanishShaikh18)  
+<br>
 ---
 
-## 📊 Dashboards  
-
-### 📌 Executive Summary (Power BI)  
-- Orders, Revenue, Avg Delivery Time, SLA Breach %  
-
-### 📌 Deep Dive  
-- Category trends, Delay heatmaps, Customer segmentation  
-
-### 📌 Ops Dashboard  
-- SLA monitoring, Refunds, Hourly performance  
-
-*(Screenshots/GIFs of dashboards go here)*  
-
----
-
-## 🚀 How to Run This Project  
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/your-username/QuickCommerce-Analytics.git
-   cd QuickCommerce-Analytics
-
-## Why This Project Stands Out
-
-✅ End-to-End pipeline: From raw data → SQL → EDA → Forecasting → Dashboard.
-✅ Industry-standard schema & KPIs (SLA, P50/P90 delivery times, breach rates).
-✅ Business-first: Recommendations linked to real growth opportunities (+37% revenue).
-
-
-## ✨About Me
-👋 Hi, I’m Danish Shaikh a passionate about using data to solve real business problems.
-
-🔗 Let’s connect: (https://www.linkedin.com/in/danish-shaikh-b6442a212/)
-
-
-## 📜 License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+## 📜 License  
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file.  
 
 
 
