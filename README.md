@@ -52,8 +52,7 @@ This project simulates a real-world analytics system for Blinkit, Swiggy Instama
 - Delivery time distribution.  
 - Top product categories.
 - Service Ratings Distribution
-
-Sample Plot — Illustrative Example of Analysis 
+- Sample Plot — Illustrative Example of Analysis 
 <img src="https://github.com/user-attachments/assets/79565c8f-0506-4821-8383-c3935f4b8069" width="550"/>
 
 ### 🔹 2. Diagnostic (Why did it happen?)  
@@ -61,21 +60,21 @@ Sample Plot — Illustrative Example of Analysis
 - Refunds tied to **delays + categories**.  
 - Ratings dropped with **every 10 min delay (-1.1 score)**.  
 - JioMart slower despite higher SLA → ops inefficiency.
-Sample Plot — Illustrative Example of Analysis 
+- Sample Plot — Illustrative Example of Analysis 
 <img src="https://github.com/user-attachments/assets/19f59909-ecda-4f87-b901-d72031e0e51f" width="550"/>
 
 ### 🔹 3. Predictive (What’s likely?)  
 - **Demand forecasting** for next week (Prophet/ARIMA).  
 - **Customer churn prediction** based on bad ratings + refunds.  
 - **Delay prediction** based on order time, platform, category.
-Sample Plot — Illustrative Example of Analysis 
+- Sample Plot — Illustrative Example of Analysis 
 <img src="https://github.com/user-attachments/assets/846029d3-5997-4537-983b-27f4a66697ff" width="600"/>
 
 ### 🔹 4. Prescriptive (What should they do?)  
 - Optimize resources in **peak hours**.  
 - Discounts for categories with **high churn/refunds**.  
 - SLA breach reduction → directly improves ratings & loyalty.
-Sample Plot — Illustrative Example of Analysis 
+- Sample Plot — Illustrative Example of Analysis 
 <img src="https://github.com/user-attachments/assets/44f5f6d3-ad10-4266-986d-292a74fb7c9b" width="600"/>
 
 ---
@@ -124,7 +123,7 @@ Sample Plot — Illustrative Example of Analysis
 ✅ Business-first: Recommendations linked to real growth opportunities (+37% revenue).
 
 
-##✨ About Me
+## ✨About Me
 👋 Hi, I’m Danish Shaikh a passionate about using data to solve real business problems.
 
 🔗 Let’s connect: ![LinkedIn](https://www.linkedin.com/in/danish-shaikh-b6442a212/)
@@ -132,6 +131,7 @@ Sample Plot — Illustrative Example of Analysis
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
