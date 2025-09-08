@@ -126,11 +126,12 @@ This project simulates a real-world analytics system for Blinkit, Swiggy Instama
 ## ✨About Me
 👋 Hi, I’m Danish Shaikh a passionate about using data to solve real business problems.
 
-🔗 Let’s connect: ![LinkedIn](https://www.linkedin.com/in/danish-shaikh-b6442a212/)
+🔗 Let’s connect: (https://www.linkedin.com/in/danish-shaikh-b6442a212/)
 
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
