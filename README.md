@@ -33,9 +33,9 @@ This project simulates a real-world analytics system for Blinkit, Swiggy Instama
  ┃ ┣ 📓 Analysis.ipynb   # Full EDA & insights
  ┃ ┣ 📓 Extract.ipynb    # Data extraction & preprocessing
  ┃ ┗ 📓 Load.ipynb       # Loading into PostgreSQL
- ┣ 📂 sql     # SQL scripts for schema & transformations
- ┣ 📂 reports   # EDA storytelling deck
- ┣ 📂 dashboard  # Power BI dashboard
+ ┣ 📂 sql                # SQL scripts for schema & transformations
+ ┣ 📂 reports            # EDA storytelling deck
+ ┣ 📂 dashboard          # Power BI dashboard
  ┣ 📄 README.md
  ┗ 📄 requirements.txt
 
@@ -131,6 +131,7 @@ This project simulates a real-world analytics system for Blinkit, Swiggy Instama
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
