@@ -21,7 +21,7 @@ This project delivers an **end-to-end intelligence system** for 100,000+ orders 
 <br>
 <br>
 
----
+
 ## 🛠️ Tech Stack & Skills  
 
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Prophet/ARIMA  
@@ -30,7 +30,7 @@ This project delivers an **end-to-end intelligence system** for 100,000+ orders 
 - **Analytics Framework**: Descriptive → Diagnostic → Predictive → Prescriptive  
 <br>
 
----
+
 ## 📂 Repository Structure
 ```
 📦 quick-commerce-analysis
@@ -93,16 +93,15 @@ This project delivers an **end-to-end intelligence system** for 100,000+ orders 
 - 🎯 Targeted retention campaigns could **convert 50% “price-only” buyers → loyalists**, lifting Blinkit revenue by **7.3%**.
 <br>
 <img width="650" alt="Image" src="https://github.com/user-attachments/assets/dfc90095-80ff-49b7-b102-055820291a60" />
-
+<br>
 <img width="650" alt="Image" src="https://github.com/user-attachments/assets/98eb5c95-d569-47d2-a82a-730b528b3fae" />
-
+<br>
 <img width="650" alt="Image" src="https://github.com/user-attachments/assets/59710765-b0ad-4d45-a181-7aff32ec12e3" />
 <br>
-
+<br>
 📑 [View Full EDA Report PPT](reports\EDA_Quick_Commerce.pptx) 
 
 ## 📑 Deliverables  
-
 - ✅ SQL schemas + pipelines.  
 - ✅ Jupyter EDA + ML notebooks.  
 - ✅ Power BI dashboard.  
@@ -111,7 +110,6 @@ This project delivers an **end-to-end intelligence system** for 100,000+ orders 
 <br>
 
 ## 🏆 Why This Project Stands Out  
-
 - 🔹 **End-to-End pipeline**: Raw data → SQL → EDA → Forecasting → Dashboard.  
 - 🔹 **Industry KPIs**: SLA, P50/P90 delivery, breach rates.  
 - 🔹 **Business-first**: Insights linked directly to growth opportunities.  
@@ -119,7 +117,6 @@ This project delivers an **end-to-end intelligence system** for 100,000+ orders 
 <br>
 
 ## 👋 About Me  
-
 Hi, I’m **Danish Shaikh** — passionate about turning data into **business outcomes**.  
 🔗 [LinkedIn](https://www.linkedin.com/in/danish-shaikh-b6442a212/) | [Kaggle](https://www.kaggle.com/danishshaikh18) | [GitHub](https://github.com/DanishShaikh18)  
 <br>
@@ -127,6 +124,7 @@ Hi, I’m **Danish Shaikh** — passionate about turning data into **business ou
 
 ## 📜 License  
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file.  
+
 
 
 
