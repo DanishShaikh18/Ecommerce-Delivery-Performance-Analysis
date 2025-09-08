@@ -28,7 +28,8 @@ This project delivers an **end-to-end intelligence system** for 100,000+ orders 
 - **SQL (PostgreSQL)**: Star Schema design, Fact-Dimension modeling, ELT pipelines  
 - **Power BI**: 3-page executive dashboard (Summary • Deep Dive • Ops)  
 - **Analytics Framework**: Descriptive → Diagnostic → Predictive → Prescriptive  
-
+<br>
+---
 
 ## 📂 Repository Structure
 ```
@@ -126,6 +127,7 @@ Hi, I’m **Danish Shaikh** — passionate about turning data into **business ou
 
 ## 📜 License  
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file.  
+
 
 
 
