@@ -1,31 +1,31 @@
-# QCommerce Intelligence Suite — Delivery & Customer Analytics
+# ⚡ QCommerce Intelligence Suite — Delivery & Customer Analytics  
 
-![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-informational?logo=postgresql)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DataWarehouse-informational?logo=postgresql)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
+![Forecasting](https://img.shields.io/badge/Forecasting-Prophet%2FARIMA-success?logo=fastapi)
+<br>
+<br>
 
+## 🚀 Executive Snapshot  
+- ⚡ **Swiggy Instamart**: Fastest deliveries (11 min avg) → **85% satisfied customers**.  
+- ⚡ **Blinkit**: Market share leader (40% orders, ₹1.74 Cr revenue) but faces **evening SLA breaches**.  
+- ⚡ **JioMart**: Highest basket value but **45% customer satisfaction**, losing 70%+ to churn.  
+
+This project delivers an **end-to-end intelligence system** for 100,000+ orders across 3 platforms → covering **descriptive, diagnostic, predictive, and prescriptive analytics**.  
 
 <img src="https://github.com/user-attachments/assets/297a6f83-9b19-4277-9b07-bc0dfe77ea3a" width="700"/>
-
-
-## 📌Overview  
-Quick-commerce is a billion-dollar battle where speed, service quality, and customer trust decide market winners.
-
-This project simulates a real-world analytics system for Blinkit, Swiggy Instamart, and JioMart using 100,000+ orders. It goes beyond simple EDA to deliver:
-
-- 📦**Delivery Intelligence** → SLA monitoring, bottleneck detection, breach analysis
-- 👥**Customer Intelligence** → churn prediction, segmentation, satisfaction drivers
-- 📈**Business Intelligence** → forecasts & prescriptive strategies with +37% growth opportunity  
-
----
-
+<br>
+<br>
 ## 🛠️ Tech Stack & Skills  
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Prophet/ARIMA  
-- **SQL (PostgreSQL)**: Star Schema, Fact & Dimension Modeling, ELT Pipelines 
-- **Power BI**: 3-page executive dashboard (Summary • Deep Dive • Ops)  
-- **Analytics**: Descriptive, Diagnostic, Predictive, Prescriptive   
----
 
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Prophet/ARIMA  
+- **SQL (PostgreSQL)**: Star Schema design, Fact-Dimension modeling, ELT pipelines  
+- **Power BI**: 3-page executive dashboard (Summary • Deep Dive • Ops)  
+- **Analytics Framework**: Descriptive → Diagnostic → Predictive → Prescriptive  
+
+
+## 📂 Repository Structure
 ```
 📦 quick-commerce-analysis
  ┣ 📂 dataset
@@ -135,6 +135,7 @@ This project simulates a real-world analytics system for Blinkit, Swiggy Instama
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
