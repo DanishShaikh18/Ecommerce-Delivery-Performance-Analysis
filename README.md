@@ -14,7 +14,7 @@
 <br>
 
 Quick-commerce is a billion-dollar battle where speed, service quality, and customer trust decide market winners.<br>
-This project delivers an **end-to-end intelligence system** for 100,000+ orders across 3 platforms → covering **descriptive, diagnostic, predictive, and prescriptive analytics**.  
+This project delivers an end-to-end intelligence system for 100,000 realistic Q-commerce transactions (public dataset) across 3 platforms → covering descriptive, diagnostic, predictive, and prescriptive analytics. 
 <br>
 
 <img src="https://github.com/user-attachments/assets/297a6f83-9b19-4277-9b07-bc0dfe77ea3a" width="700"/>
@@ -24,8 +24,10 @@ This project delivers an **end-to-end intelligence system** for 100,000+ orders 
 
 ## 🛠️ Tech Stack & Skills  
 
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Prophet/ARIMA  
-- **SQL (PostgreSQL)**: Star Schema design, Fact-Dimension modeling, ELT pipelines  
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
+- **SQL (PostgreSQL)**: Star Schema design, Fact-Dimension modeling, ELT pipelines 
+- **Forecasting Models**: Prophet, ARIMA (time-series forecasting)
+- **ML Techniques**: Logistic Regression (churn), Classification models (delay likelihood) 
 - **Power BI**: 3-page executive dashboard (Summary • Deep Dive • Ops)  
 - **Analytics Framework**: Descriptive → Diagnostic → Predictive → Prescriptive  
 <br>
@@ -55,13 +57,14 @@ This project delivers an **end-to-end intelligence system** for 100,000+ orders 
 ### 🔹 Descriptive (What happened?)  
 - Orders, revenue, SLA performance by platform.  
 - Daily/hourly demand patterns, top categories.
+- Categorizing customers into segments using RFM techniques
 <br>
 <img src="https://github.com/user-attachments/assets/79565c8f-0506-4821-8383-c3935f4b8069" width="550"/>
 <br>
 <br>
 
 ### 🔹 Diagnostic (Why did it happen?)  
-- Ratings drop **-1.1 per 10 min delay**.  
+- **Regression analysis** (OLS) quantified impact of delivery delays → ratings drop **-1.1 per 10 min delay**.  
 - Blinkit breaches SLA 15% during 18:00–21:00.  
 - JioMart consistently lags with 40–50% delays.
 <br>
@@ -70,8 +73,8 @@ This project delivers an **end-to-end intelligence system** for 100,000+ orders 
 <br>
 
 ### 🔹 Predictive (What’s likely?)  
-- **7-day demand forecast** (Prophet/ARIMA).  
-- **Churn prediction** → refund + low rating combo.  
+- **7-day demand forecast** using Prophet/ARIMA.  
+- **Churn prediction** via Logistic Regression on customer ratings + refund history.  
 - **Delay likelihood model** across platforms.
 <br>
 <img src="https://github.com/user-attachments/assets/846029d3-5997-4537-983b-27f4a66697ff" width="600"/>
@@ -128,6 +131,7 @@ Hi, I’m **Danish Shaikh** passionate about turning data into **business outcom
 
 ## 📜 License  
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file.  
+
 
 
 
